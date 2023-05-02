@@ -8,20 +8,20 @@ Laion Silva
 Pedro Marambaia
 
 Modelo de Processos utilizado pelo time:
-Metodologia Ágil - Framework Scrum
-Kanban
+- Metodologia Ágil - Framework Scrum
+- Kanban
 
 Ferramentas utilizadas:
 
-Slack
-Jira
-Github
-Bizagi Modeler
-VSCode
+- Slack
+- Jira
+- Github
+- Bizagi Modeler
+- VSCode
 
 Stacks de desenvolvimento:
-React Native (JS)
-Java
+- React Native 
+- Java
 
 Encontros:
 Segunda e Quarta - 17:00h 
