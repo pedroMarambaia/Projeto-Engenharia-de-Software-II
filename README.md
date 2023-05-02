@@ -8,4 +8,6 @@ Laion Silva
 Pedro Marambaia
 
 Encontros:
-Segunda e Quarta 17hrs
+Slack
+Segunda e Quarta = 17:00h
+
