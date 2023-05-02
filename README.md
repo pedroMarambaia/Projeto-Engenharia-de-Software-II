@@ -9,5 +9,5 @@ Pedro Marambaia
 
 Encontros:
 Slack
-Segunda e Quarta - 17:00h
+(Segunda e Quarta - 17:00h)
 
