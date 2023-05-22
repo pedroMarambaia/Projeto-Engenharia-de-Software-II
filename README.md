@@ -6,7 +6,7 @@ ENTREGAS:
 
 - [BPM](https://github.com/pedroMarambaia/Projeto-Engenharia-de-Software-II/blob/main/financeiro.bpm)
 - [Entrega 1](https://github.com/pedroMarambaia/Projeto-Engenharia-de-Software-II/blob/main/User%20stories.pdf)
-- [Entrega 2](https://github.com/pedroMarambaia/Projeto-Engenharia-de-Software-II/blob/main/Diagrama%20de%20caso%20de%20uso.pdf)
+- [Entrega 2 - Diagrama de Caso de Uso](https://github.com/pedroMarambaia/Projeto-Engenharia-de-Software-II/blob/main/Diagrama%20de%20caso%20de%20uso.pdf)
 
 Grupo: 
 - Fabrício Siqueira
