@@ -22,7 +22,7 @@ Modelo de Processos utilizado pelo time:
 Ferramentas utilizadas:
 
 - Slack
-- Jira
+- [Jira](https://savemoneysoft.atlassian.net/jira/software/projects/SAV/boards/1)
 - Github
 - Bizagi Modeler
 - VSCode
