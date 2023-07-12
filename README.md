@@ -41,12 +41,12 @@ Instruções para rodar:
 - npm install --global expo-cli
 
 - Instalar dependências : 
-- "@react-native-async-storage/async-storage": "1.17.11",
-  -  "@react-native-community/datetimepicker": "6.7.3",
-   - "@react-native-community/masked-view": "^0.1.11",
+    - "@react-native-async-storage/async-storage": "1.17.11",
+    -  "@react-native-community/datetimepicker": "6.7.3",
+    - "@react-native-community/masked-view": "^0.1.11",
     - "@react-native-community/picker": "1.8.1",
-  - "@react-navigation/drawer": "^6.6.3",
-  - "@react-navigation/native": "^6.1.7",
+    - "@react-navigation/drawer": "^6.6.3",
+    - "@react-navigation/native": "^6.1.7",
     - "@react-navigation/stack": "^6.3.17",
     - "date-fns": "^2.30.0",
     - "expo": "~48.0.18",
