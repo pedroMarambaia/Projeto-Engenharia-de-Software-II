@@ -42,7 +42,7 @@ Instruções para rodar:
 
 - Instalar dependências : 
     - "@react-native-async-storage/async-storage": "1.17.11",
-    -  "@react-native-community/datetimepicker": "6.7.3",
+    - "@react-native-community/datetimepicker": "6.7.3",
     - "@react-native-community/masked-view": "^0.1.11",
     - "@react-native-community/picker": "1.8.1",
     - "@react-navigation/drawer": "^6.6.3",
