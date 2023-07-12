@@ -40,7 +40,9 @@ Stacks de desenvolvimento:
 Instruções para rodar:
 - npm install --global expo-cli
 
-- Instalar dependências : 
+- Instalar dependências :
+  npm install <dependência>
+  
     - "@react-native-async-storage/async-storage": "1.17.11",
     - "@react-native-community/datetimepicker": "6.7.3",
     - "@react-native-community/masked-view": "^0.1.11",
