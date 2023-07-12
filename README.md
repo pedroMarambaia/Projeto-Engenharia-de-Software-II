@@ -5,7 +5,7 @@ O SaveMoney é um aplicativo de gerenciamento de finanças pessoais para smartph
 ENTREGAS:
 
 - [BPM](https://github.com/pedroMarambaia/Projeto-Engenharia-de-Software-II/blob/main/financeiro.bpm)
-- [Entrega 1](https://github.com/pedroMarambaia/Projeto-Engenharia-de-Software-II/blob/main/User%20stories.pdf)
+- [Entrega 1 - Histórias de Usuário](https://github.com/pedroMarambaia/Projeto-Engenharia-de-Software-II/blob/main/User%20stories.pdf)
 - [Entrega 2 - Diagrama de Caso de Uso](https://github.com/pedroMarambaia/Projeto-Engenharia-de-Software-II/blob/main/Diagrama%20de%20caso%20de%20uso.pdf)
 - [Entrega 2 - Diagrama de Classe UML](https://github.com/pedroMarambaia/Projeto-Engenharia-de-Software-II/blob/main/Classe%20UML.pdf)
 - [Entrega 3 - Front e Back Sistema de Login/Cadastro](https://github.com/pedroMarambaia/Projeto-Engenharia-de-Software-II/tree/master)
