@@ -39,11 +39,8 @@ Stacks de desenvolvimento:
 
 Instruções para rodar:
 - npm install --global expo-cli
-- npx expo start
 
-- O Expo é um aplicativo que facilita o aprendizado do React Native principalmente no acesso aos recursos nativos da plataforma, eliminando a necessidade de instalar bibliotecas manualmente logo de início. Para baixar o Expo basta acessar a loja do seu celular, ou Play Store ou App Store. Você precisará criar uma conta e logar. Depois é só mirar a câmera no QR Code que aparecerá em seu terminal após a execução do comando "npx expo start".
-  
-Dependências: 
+Instalar dependências : 
 "@react-native-async-storage/async-storage": "1.17.11",
     "@react-native-community/datetimepicker": "6.7.3",
     "@react-native-community/masked-view": "^0.1.11",
@@ -65,4 +62,10 @@ Dependências:
     "react-native-vector-icons": "^9.2.0",
     "react-native-web": "~0.18.10",
     "styled-components": "^6.0.2"
+
+- npx expo start
+
+- O Expo é um aplicativo que facilita o aprendizado do React Native principalmente no acesso aos recursos nativos da plataforma, eliminando a necessidade de instalar bibliotecas manualmente logo de início. Para baixar o Expo basta acessar a loja do seu celular, ou Play Store ou App Store. Você precisará criar uma conta e logar. Depois é só mirar a câmera no QR Code que aparecerá em seu terminal após a execução do comando "npx expo start".
+  
+
 
