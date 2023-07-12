@@ -16,6 +16,9 @@ Grupo:
 - Laion Silva
 - Pedro Marambaia
 
+Encontros:
+- Assíncronos 
+
 Modelo de Processos utilizado pelo time:
 - Metodologia Ágil - Framework Scrum
 - Kanban
@@ -62,7 +65,4 @@ Dependências:
     "react-native-vector-icons": "^9.2.0",
     "react-native-web": "~0.18.10",
     "styled-components": "^6.0.2"
-
-Encontros:
-Segunda e Quarta - 17:00h 
 
